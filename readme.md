@@ -21,8 +21,8 @@ Create or edit [secret.py](/Users/uygnaij/Documents/programs/annas-archive/secre
 
 ```python
 API_KEY = "your_api_key"
-API_ENDPOINT = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
-MODEL_NAME = "qwen-plus"
+API_ENDPOINT = "https://your_provider.address/v1/chat/completions"
+MODEL_NAME = "chat-claude-2.5-flash"
 ```
 
 ## How to run
