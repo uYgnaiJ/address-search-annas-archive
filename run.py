@@ -13,8 +13,8 @@ import secret
 # CONFIGURATION
 # ------------------------------
 API_KEY = secret.API_KEY
-API_ENDPOINT = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
-MODEL_NAME = "qwen-plus"
+API_ENDPOINT = secret.API_ENDPOINT
+MODEL_NAME = secret.MODEL_NAME
 
 BASE_NAME = "annas-archive"
 DOMAINS_FILE = "domain"
